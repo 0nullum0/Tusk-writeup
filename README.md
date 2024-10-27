@@ -1,9 +1,9 @@
-{1} : VIT{SO_GOOD_SO_FAR_KEEP_TRIYNG}
+{1} : VIT{SOGOODSOFARKEEPTRIYNG}
 
 {2} : VIT{1s_th1s_really_the_p@ssw0rd?}
 
-{3} : VIT{flag}
+{3} : VIT{ar3_\0u_see_me?}
 
 {4} : VIT{Niagara_Falls}
 
-{5} : VIT{flag}
+{5} : VIT{d0es_any0ne_see_me?}
